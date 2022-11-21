@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Vape Shop</string>
+    <string name="info_cartridge">Подробнее</string>
+    <string name="availability_message">В наличии %1$d шт</string>
+    <string name="price_message">%1$d ₽</string>
+    <string name="title_message">%1$s, %2$s</string>
+    <string name="inst">В инстаграм</string>
+    <string name="menu_about">О нас</string>
+    <string name="menu_devices">Устройства</string>
+    <string name="menu_cartridges">Картриджи - испарители</string>
+    <string name="menu_liquids">Жидкости</string>
+    <string name="menu_tobacco">Табаки</string>
+    <string name="settings">Настройки</string>
+    <string name="nav_header_title">Huracan</string>
+    <string name="themes_name">Тема</string>
+    <string name="system_theme">Системная</string>
+    <string name="light_theme">Светлая</string>
+    <string name="dark_theme">Тёмная</string>
+</resources>

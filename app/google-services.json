@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "809318324352",
+    "firebase_url": "https://vapeshop-4441a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "vapeshop-4441a",
+    "storage_bucket": "vapeshop-4441a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809318324352:android:b0e2d5137a7370eaa9ee65",
+        "android_client_info": {
+          "package_name": "com.dev.vapeshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809318324352-8m619h4g9c00ilvbftqh8bfraedtj2kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiZCAuFoSchYBWPp0WRoNKJqdNVPKNVGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809318324352-8m619h4g9c00ilvbftqh8bfraedtj2kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

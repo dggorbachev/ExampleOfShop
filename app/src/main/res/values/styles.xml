@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CardView.Base">
+        <item name="cardCornerRadius">5dp</item>
+        <item name="android:backgroundTint">@color/white</item>
+        <item name="cardElevation">0dp</item>
+    </style>
+
+    <style name="DialogCardViewStyle" parent="@style/Widget.MaterialComponents.CardView">
+        <item name="shapeAppearanceOverlay">@style/ShapeAppearanceOverlay_card_dialog_corners</item>
+    </style>
+
+    <style name="ShapeAppearanceOverlay_card_dialog_corners" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeBottomLeft">0dp</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+        <item name="cornerSizeTopRight">15dp</item>
+        <item name="cornerSizeTopLeft">15dp</item>
+    </style>
+
+    <style name="TextAppearance.Dialog" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">12sp</item>
+        <item name="lineHeight">20dp</item>
+    </style>
+
+    <style name="Widget.Custom.NavigationView" parent="ThemeOverlay.Material3.NavigationView">
+        <item name="itemIconTint">?attr/colorNavigationItem</item>
+        <item name="itemTextColor">?attr/colorNavigationItem</item>
+        <item name="itemBackground">?attr/drawableNavigationItemBackground</item>
+    </style>
+
+    <style name="NoticeAppearance" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">12sp</item>
+        <item name="lineHeight">20dp</item>
+    </style>
+</resources>

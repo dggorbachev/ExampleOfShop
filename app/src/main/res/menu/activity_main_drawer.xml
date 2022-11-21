@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/aboutFragment"
+            android:icon="@drawable/ic_about"
+            android:title="@string/menu_about" />
+        <item
+            android:id="@+id/devicesFragment"
+            android:icon="@drawable/ic_device"
+            android:title="@string/menu_devices" />
+        <item
+            android:id="@+id/cartridgesFragment"
+            android:icon="@drawable/ic_cartridge"
+            android:title="@string/menu_cartridges" />
+        <item
+            android:id="@+id/liquidsFragment"
+            android:icon="@drawable/ic_liquid"
+            android:title="@string/menu_liquids" />
+        <item
+            android:id="@+id/tobaccoFragment"
+            android:icon="@drawable/ic_tobacco"
+            android:title="@string/menu_tobacco" />
+        <item
+            android:id="@+id/settingsFragment"
+            android:icon="@drawable/ic_settings"
+            android:title="@string/settings" />
+    </group>
+</menu>

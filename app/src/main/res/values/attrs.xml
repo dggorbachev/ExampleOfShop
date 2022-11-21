@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Theme.VapeShop">
+        <attr name="appBackgroundColor" format="reference" />
+        <attr name="priceColor" format="reference" />
+        <attr name="itemColor" format="reference" />
+        <attr name="itemBackgroundColor" format="reference" />
+        <attr name="descDialogColor" format="reference" />
+        <attr name="menuItemColor" format="reference" />
+        <attr name="titleColor" format="reference" />
+        <attr name="colorNavigationBack" format="reference" />
+        <attr name="colorNavigationItem" format="reference" />
+        <attr name="colorNavigationItemSelected" format="reference" />
+        <attr name="colorNavigationItemNotSelected" format="reference" />
+        <attr name="drawableNavigationItemBackground" format="reference" />
+    </declare-styleable>
+</resources>
