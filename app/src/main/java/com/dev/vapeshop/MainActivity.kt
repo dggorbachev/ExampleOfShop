@@ -133,7 +133,7 @@ class MainActivity : DaggerAppCompatActivity() {
     }
 
     private fun bindActionBar() {
-        binding.appBarMain.toolbar.title = "Huracan"
+        binding.appBarMain.toolbar.title = "Shop"
         binding.appBarMain.toolbar.titleMarginBottom = convertDpToPx(15)
         binding.appBarMain.toolbar.elevation = 0F
         setSupportActionBar(binding.appBarMain.toolbar)

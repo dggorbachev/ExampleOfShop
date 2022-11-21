@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Vape Shop</string>
+    <string name="app_name">Shop</string>
     <string name="info_cartridge">Подробнее</string>
     <string name="availability_message">В наличии %1$d шт</string>
     <string name="price_message">%1$d ₽</string>
@@ -11,7 +11,7 @@
     <string name="menu_liquids">Жидкости</string>
     <string name="menu_tobacco">Табаки</string>
     <string name="settings">Настройки</string>
-    <string name="nav_header_title">Huracan</string>
+    <string name="nav_header_title">Shop</string>
     <string name="themes_name">Тема</string>
     <string name="system_theme">Системная</string>
     <string name="light_theme">Светлая</string>
